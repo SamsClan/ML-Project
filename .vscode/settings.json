@@ -1,6 +1,6 @@
 {
-  "editor.inlineSuggest.enabled": true,
+  "editor.inlineSuggest.enabled": false,
   "github.copilot.enable": {
-    "*": true
+    "*": false
   }
 }
